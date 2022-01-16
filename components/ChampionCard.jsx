@@ -1,14 +1,9 @@
 import React, { useEffect, useState } from 'react';
+import Image from 'next/image';
 
 function getName(index) {
-    return fetch(`http://localhost:3000/${index}`, {
-    })
-        .then(res => {
-            res.text()
-        })
-        .then((data) => {
-            JSON.parse(data);
-        });
+    return fetch(`http://localhost:3000/${index}`)
+        .then((response) => response.json())
 }
 
 const NUM_CHAMPS = 157;
@@ -19,15 +14,19 @@ function getRandomChampionInt() {
 
 export default function ChampionCard() {
     const [name, setName] = useState([]);
+    const [image, setImage] = useState("https://game.gtimg.cn/images/lol/act/img/skinloading/34000.jpg");
+
+    let mounted = true;
+
 
     useEffect(() => {
         const index = getRandomChampionInt();
         let mounted = true;
         getName(index)
-            .then(res => {
-                console.log(res);
+            .then(data => {
                 if (mounted) {
-                    setName(res.name);
+                    setName(data.name);
+                    setImage(data.image);
                 }
             });
         return () => mounted = false;
@@ -37,6 +36,7 @@ export default function ChampionCard() {
     return (
         <div>
             <p>{name}</p>
+            {mounted ? <Image src={image} alt="champion picture" width={380} height={560} /> : <></>}
             <p>Hello</p>
         </div>
     );

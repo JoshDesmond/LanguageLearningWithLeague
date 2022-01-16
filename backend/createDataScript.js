@@ -4,9 +4,10 @@ const champs = document.querySelectorAll("#app > div > div.app-main > div > div 
 let champsJson = [];
 let x = 0;
 for (const c of champs) {
-    let name = c.firstElementChild.innerText;
+    let el = c.firstElementChild;
+    let name = el.innerText;
     name = name.replace(/\s/g, '');
-    const img = `https://game.gtimg.cn/images/lol/act/img/skinloading/${x+1}000.jpg`
+    const image = el.querySelector('img').src;
     champsJson[x] = {"name": name, 
                     "image": img};
     x++;
