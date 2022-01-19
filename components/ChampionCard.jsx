@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
+import ChampionText from './ChampionText';
 
 function getName(index) {
     return fetch(`http://localhost:3000/${index}`)
@@ -14,10 +15,13 @@ function getRandomChampionInt() {
 
 export default function ChampionCard() {
     const [name, setName] = useState([]);
-    const [image, setImage] = useState("https://game.gtimg.cn/images/lol/act/img/skinloading/34000.jpg");
+    const [image, setImage] = useState();
 
-    let mounted = true;
-
+    const styles = {
+        display: "flex",
+        flexFlow: "column",
+        alignItems: "center"
+    }
 
     useEffect(() => {
         const index = getRandomChampionInt();
@@ -34,10 +38,9 @@ export default function ChampionCard() {
 
 
     return (
-        <div>
-            <p>{name}</p>
-            {mounted ? <Image src={image} alt="champion picture" width={380} height={560} /> : <></>}
-            <p>Hello</p>
+        <div style={styles}>
+            <ChampionText text={name}></ChampionText>
+            {image ? <Image src={image} placeholder="empty" alt="champion picture" width={380} height={560} /> : <></>}
         </div>
     );
 }
