@@ -16,6 +16,7 @@ function getRandomChampionInt() {
 export default function ChampionCard() {
     const [name, setName] = useState([]);
     const [image, setImage] = useState();
+    const [showImage, setShowImage] = useState(false);
 
     const styles = {
         display: "flex",
@@ -36,11 +37,19 @@ export default function ChampionCard() {
         return () => mounted = false;
     }, [])
 
+    const makeImageVisible = () => {
+        console.log("visibilizing");
+        setShowImage(true);
+    }
+
 
     return (
         <div style={styles}>
-            <ChampionText text={name}></ChampionText>
-            {image ? <Image src={image} placeholder="empty" alt="champion picture" width={380} height={560} /> : <></>}
+            <ChampionText text={name} action={makeImageVisible}></ChampionText>
+            <div style={{ visibility: (showImage ? "visible" : "hidden") }}>
+                {image ? <Image
+                    src={image} placeholder="empty" alt="champion picture" width={380} height={560} /> : <></>}
+            </div>
         </div>
     );
 }

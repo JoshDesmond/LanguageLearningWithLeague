@@ -9,6 +9,6 @@ export default function ChampionCard(props) {
     }
 
     return (
-        <p style={style} >{props.text}</p>
+        <p style={style} onClick={props.action}>{props.text}</p>
     )
 }
