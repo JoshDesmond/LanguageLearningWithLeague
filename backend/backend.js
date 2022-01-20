@@ -14,7 +14,7 @@ app.param('id', function (req, res, next, id) {
 })
 
 app.get('/:id', cors(corsOptions), function (req, res) {
-    console.log(data[req.params.id]);
+    console.log(req.params.id + ": " + data[req.params.id].name);
     res.send(data[req.params.id]);
     res.end();
 });

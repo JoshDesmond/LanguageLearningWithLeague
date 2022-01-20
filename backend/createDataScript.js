@@ -9,7 +9,7 @@ for (const c of champs) {
     name = name.replace(/\s/g, '');
     const image = el.querySelector('img').src;
     champsJson[x] = {"name": name, 
-                    "image": img};
+                    "image": image};
     x++;
 }
 champsJson;
