@@ -13,9 +13,8 @@ function getRandomChampionInt() {
     return Math.floor((Math.random() * NUM_CHAMPS));
 }
 
-export default function ChampionCard(props) {
-    const [name, setName] = useState([]);
-    const [image, setImage] = useState();
+function ChampionCard(props) {
+    const [champion, setChampion] = useState({name: "", image: ""});
     const [showImage, setShowImage] = useState(false);
     let mounted = false;
 
@@ -25,14 +24,12 @@ export default function ChampionCard(props) {
         alignItems: "center"
     }
 
-
     useEffect(() => {
         // if (props.count === 0) return; // Ignore initialization
         const index = getRandomChampionInt();
         getName(index)
             .then(data => {
-                setName(data.name);
-                setImage(data.image);
+                setChampion({name: data.name, image: data.image});
                 setShowImage(false);
             });
     }, [props.count])
@@ -43,11 +40,13 @@ export default function ChampionCard(props) {
 
     return (
         <div style={styles}>
-            <ChampionText text={name} action={makeImageVisible}></ChampionText>
+            <ChampionText text={champion.name} action={makeImageVisible}></ChampionText>
             <div style={{ visibility: (showImage ? "visible" : "hidden") }}>
-                {image ? <Image
-                    src={image} placeholder="empty" alt="champion picture" width={380} height={560} /> : <></>}
+                {champion.image ? <Image
+                    src={champion.image} placeholder="empty" alt="champion picture" width={380} height={560} /> : <></>}
             </div>
         </div>
     );
 }
+
+export default ChampionCard;
