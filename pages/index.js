@@ -3,12 +3,37 @@ import styles from '../styles/Home.module.css'
 import ChampionCard from '../components/ChampionCard'
 import { useState } from 'react'
 
+// TODO
+function getName(index) {
+  return fetch(`http://localhost:3000/${index}`)
+    .then((response) => response.json())
+}
+
+// TODO
+const NUM_CHAMPS = 157;
+function getRandomChampionInt() {
+  // Returns a vlue between 0 and NUM_CHAMPS-1
+  return Math.floor((Math.random() * NUM_CHAMPS));
+}
+
+// TODO
+const nextChamp = () => {
+
+};
+
+
 export default function Home() {
 
-  const [count, setCount] = useState(0);
+  const [champion, setChampion] = useState({ index: 0, name: "", image: "https://game.gtimg.cn/images/lol/act/img/skinloading/37000" });
 
   const nextCard = (e) => {
-    setCount(count + 1);
+    if (e) { /* TODO */ }
+    const newIndex = getRandomChampionInt();
+    setChampion({...champion, index: newIndex});
+    getName(newIndex)
+      .then(data => {
+        setChampion({...champion, name: data.name, image: data.image });
+      });
   }
 
   return (
@@ -20,8 +45,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <ChampionCard count={count}></ChampionCard>
-        <button className={styles.button} onClick={nextCard}>Next Champion</button>
+        <ChampionCard name={champion.name} image={champion.image}></ChampionCard>
+        <div>
+          <button className={styles.button} onClick={nextCard}>Wrong</button>
+          <button className={styles.button} onClick={nextCard}>Right</button>
+        </div>
       </main>
 
       <footer className={styles.footer}>
