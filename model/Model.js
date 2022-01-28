@@ -1,8 +1,12 @@
 
-function getName(index) {
-    console.log(index);
-    return fetch(`http://localhost:3000/${index}`)
-        .then((response) => response.json())
+/**
+ * 
+ * @param {Number} index The champion ID or number to get
+ * @returns A
+ */
+async function getName(index) {
+    const response = await fetch(`http://localhost:3000/${index}`);
+    return await response.json();
 }
 
 const NUM_CHAMPS = 157;
@@ -17,7 +21,8 @@ class Model {
         this.setChampion = setChampionFunction;
         /** @type {Set} Set of champion indices remaining */
         this._activeChampionList = new Set();
-        this._currentIndex = 0; // TODO duplicate state
+        /** @type {Number} The currently displayed champion ID or number */
+        this._currentChampionId = 0;
         for (let x = 0; x < NUM_CHAMPS; x++) {
             this._activeChampionList.add(x);
         }
@@ -29,25 +34,31 @@ class Model {
      */
     _getNextChampionInt() {
         const champsRemaining = this._activeChampionList.size;
+        if (champsRemaining === 0) { throw new Error("getChampionInt called with no more champions left") };
         const index = Math.floor((Math.random() * champsRemaining));
-        let i = 0;
 
+        let i = 0;
         for (let val of this._activeChampionList.keys()) {
             if (i++ === index) {
-                this._currentIndex = val; // TODO kinda hacky
+                this._currentChampionId = val;
                 return val;
             }
         }
     }
 
-    nextCard() {
-        this._activeChampionList.delete(this._currentIndex); // TODO temp
-        const newIndex = this._getNextChampionInt();
-        console.log(`newIndex: ${newIndex}`);
-        getName(newIndex)
+    /**
+     * 
+     * @param {Boolean} correct True if the answer just provided to trigger nextCard was correct
+     */
+    nextCard(correct) {
+        if (correct) {
+            this._activeChampionList.delete(this._currentChampionId);
+        }
+
+        const newChampionId = this._getNextChampionInt();
+        getName(newChampionId)
             .then((data) => {
-                this.setChampion({ index: newIndex, name: data.name, image: data.image });
-                console.log(this._activeChampionList);
+                this.setChampion({ index: newChampionId, name: data.name, image: data.image });
             });
     }
 }

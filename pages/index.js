@@ -10,8 +10,13 @@ export default function Home() {
   const [champion, setChampion] = useState({ index: 0, name: "黑暗之女", image: "https://game.gtimg.cn/images/lol/act/img/skinloading/1000.jpg" });
   const [model, setModel] = useState(new Model(setChampion));
 
-  const nextCard = () => {
-    model.nextCard();
+  /**
+   * @param {MouseEvent} e 
+   */
+  const nextCard = (e) => {
+    const correct = e.target.id === "rightButton";
+    console.log(correct);
+    model.nextCard(correct);
   }
 
   return (
@@ -25,8 +30,8 @@ export default function Home() {
       <main className={styles.main}>
         <ChampionCard name={champion.name} image={champion.image}></ChampionCard>
         <div>
-          <button className={styles.button} onClick={nextCard}>Wrong</button>
-          <button className={styles.button} onClick={nextCard}>Right</button>
+          <button id="wrongButton" className={styles.button} onClick={nextCard}>Wrong</button>
+          <button id="rightButton" className={styles.button} onClick={nextCard}>Right</button>
         </div>
       </main>
 
