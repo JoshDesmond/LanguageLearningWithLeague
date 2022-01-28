@@ -2,38 +2,16 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import ChampionCard from '../components/ChampionCard'
 import { useState } from 'react'
-
-// TODO
-function getName(index) {
-  return fetch(`http://localhost:3000/${index}`)
-    .then((response) => response.json())
-}
-
-// TODO
-const NUM_CHAMPS = 157;
-function getRandomChampionInt() {
-  // Returns a vlue between 0 and NUM_CHAMPS-1
-  return Math.floor((Math.random() * NUM_CHAMPS));
-}
-
-// TODO
-const nextChamp = () => {
-
-};
+import { Model } from '../model/Model.js'
 
 
 export default function Home() {
 
-  const [champion, setChampion] = useState({ index: 0, name: "", image: "https://game.gtimg.cn/images/lol/act/img/skinloading/37000" });
+  const [champion, setChampion] = useState({ index: 0, name: "黑暗之女", image: "https://game.gtimg.cn/images/lol/act/img/skinloading/1000.jpg" });
+  const [model, setModel] = useState(new Model(setChampion));
 
-  const nextCard = (e) => {
-    if (e) { /* TODO */ }
-    const newIndex = getRandomChampionInt();
-    setChampion({...champion, index: newIndex});
-    getName(newIndex)
-      .then(data => {
-        setChampion({...champion, name: data.name, image: data.image });
-      });
+  const nextCard = () => {
+    model.nextCard();
   }
 
   return (
