@@ -18,7 +18,6 @@ const options = {
         "accept-encoding": "application/gzip",
         "x-rapidapi-host": "google-translate1.p.rapidapi.com",
         "x-rapidapi-key": process.env.TRANSLATE_API_KEY,
-        "x-rapidapi-key": "bd326bab57msh9c30512165f37e2p18e583jsn7b84db0174cc",
         "useQueryString": true
     }
 };
@@ -44,7 +43,7 @@ function translate(text) {
 
         console.log(text);
 
-        req.write(qs.stringify({ q: text.slice(0, 99), target: 'en', source: 'zh' }));
+        req.write(qs.stringify({ q: text, target: 'en', source: 'zh' }));
         req.end();
     });
 }
@@ -64,6 +63,7 @@ const run = async function () {
 
     await translate(textList1).then((/** @type {Buffer} */ res) => {
         const resObject = JSON.parse(res.toString());
+        console.log(resObject);
         translationList = translationList.concat(resObject.data.translations);
     });
 

@@ -7,7 +7,13 @@ import { Model } from '../model/Model.js'
 
 export default function Home() {
 
-  const [champion, setChampion] = useState({ index: 0, name: "黑暗之女", image: "https://game.gtimg.cn/images/lol/act/img/skinloading/1000.jpg" });
+  const [champion, setChampion] = useState({
+    index: 0,
+    name: "黑暗之女",
+    image: "https://game.gtimg.cn/images/lol/act/img/skinloading/1000.jpg",
+    translation: "Annie"
+  });
+  // TODO this doesn't actually need to use state?
   const [model, setModel] = useState(new Model(setChampion));
 
   /**
@@ -28,7 +34,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <ChampionCard name={champion.name} image={champion.image}></ChampionCard>
+        <ChampionCard name={champion.name} image={champion.image} translatedText={champion.translation}></ChampionCard>
         <div>
           <button id="wrongButton" className={styles.button} onClick={nextCard}>Wrong</button>
           <button id="rightButton" className={styles.button} onClick={nextCard}>Right</button>

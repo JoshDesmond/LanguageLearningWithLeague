@@ -25,10 +25,11 @@ function ChampionCard(props) {
     return (
         <div style={styles}>
             <ChampionText text={props.name} action={makeImageVisible}></ChampionText>
-            <div style={{ visibility: (showImage ? "visible" : "hidden") }}>
+            <div style={{ visibility: (showImage ? "visible" : "hidden"), ...styles }}>
                 <Image src={props.image} placeholder="empty" alt="champion picture" width={380} height={560} />
+                <div className='translated_text'>{props.translatedText.toUpperCase()}</div>
             </div>
-        </div>
+        </div >
     );
 }
 

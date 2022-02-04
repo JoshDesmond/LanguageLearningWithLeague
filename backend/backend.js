@@ -7,7 +7,7 @@ var corsOptions = {
     origin: 'http://localhost:3001',
 }
 
-const data = require('./data.json');
+const data = require('./data-with-translations.json');
 
 app.param('id', function (req, res, next, id) {
     next();

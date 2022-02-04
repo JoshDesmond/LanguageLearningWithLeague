@@ -58,7 +58,12 @@ class Model {
         const newChampionId = this._getNextChampionInt();
         getName(newChampionId)
             .then((data) => {
-                this.setChampion({ index: newChampionId, name: data.name, image: data.image });
+                this.setChampion({
+                    index: newChampionId,
+                    name: data.name, 
+                    image: data.image,
+                    translation: data.translation
+                });
             });
     }
 }
