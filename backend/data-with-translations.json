@@ -1,1 +1,787 @@
-[{"name":"黑暗之女","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/1000.jpg","translation":"Dark Lady"},{"name":"狂战士","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/2000.jpg","translation":"Berserker"},{"name":"正义巨像","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/3000.jpg","translation":"Colossus of Justice"},{"name":"卡牌大师","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/4000.jpg","translation":"J"},{"name":"德邦总管","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/5000.jpg","translation":"Debon Manager"},{"name":"无畏战车","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/6000.jpg","translation":"Dreadnought"},{"name":"诡术妖姬","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/7000.jpg","translation":"Trickster"},{"name":"猩红收割者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/8000.jpg","translation":"Crimson Reaper"},{"name":"远古恐惧","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/9000.jpg","translation":"ancient fear"},{"name":"正义天使","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/10000.jpg","translation":"Angel of Justice"},{"name":"无极剑圣","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/11000.jpg","translation":"Promise Juggernaut"},{"name":"牛头酋长","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/12000.jpg","translation":"Tauren Chief"},{"name":"符文法师","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/13000.jpg","translation":"Rune Mage"},{"name":"亡灵战神","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/14000.jpg","translation":"Undead Ares"},{"name":"战争女神","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/15000.jpg","translation":"goddess of war"},{"name":"众星之子","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/16000.jpg","translation":"children of the stars"},{"name":"迅捷斥候","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/17000.jpg","translation":"Swift Scout"},{"name":"麦林炮手","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/18000.jpg","translation":"Merlin Gunner"},{"name":"祖安怒兽","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/19000.jpg","translation":"Zaun Rage"},{"name":"雪原双子","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/20000.jpg","translation":"snowfield twins"},{"name":"赏金猎人","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/21000.jpg","translation":"Bounty Hunter"},{"name":"寒冰射手","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/22000.jpg","translation":"Ashe"},{"name":"蛮族之王","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/23000.jpg","translation":"The barbarian king"},{"name":"武器大师","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/24000.jpg","translation":"Weapon Master"},{"name":"堕落天使","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/25000.jpg","translation":"Fallen angels"},{"name":"时光守护者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/26000.jpg","translation":"time guardian"},{"name":"炼金术士","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/27000.jpg","translation":"Alchemist"},{"name":"痛苦之拥","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/28000.jpg","translation":"Embrace of Pain"},{"name":"瘟疫之源","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/29000.jpg","translation":"source of plague"},{"name":"死亡颂唱者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/30000.jpg","translation":"death chanter"},{"name":"虚空恐惧","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/31000.jpg","translation":"Void Fear"},{"name":"殇之木乃伊","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/32000.jpg","translation":"The Mummy of Mourning"},{"name":"披甲龙龟","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/33000.jpg","translation":"Armored Dragon Turtle"},{"name":"冰晶凤凰","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/34000.jpg","translation":"Ice Crystal Phoenix"},{"name":"恶魔小丑","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/35000.jpg","translation":"Demon clown"},{"name":"祖安狂人","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/36000.jpg","translation":"Zaun Madman"},{"name":"琴瑟仙女","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/37000.jpg","translation":"qinse fairy"},{"name":"虚空行者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/38000.jpg","translation":"Voidwalker"},{"name":"刀锋舞者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/39000.jpg","translation":"Blade Dancer"},{"name":"风暴之怒","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/40000.jpg","translation":"Fury of the Storm"},{"name":"海洋之灾","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/41000.jpg","translation":"Disaster of the Seas"},{"name":"英勇投弹手","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/42000.jpg","translation":"Valiant Bombardier"},{"name":"天启者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/43000.jpg","translation":"Apocalypse"},{"name":"瓦洛兰之盾","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/44000.jpg","translation":"Shield of Valoran"},{"name":"邪恶小法师","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/45000.jpg","translation":"Evil Little Mage"},{"name":"巨魔之王","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/48000.jpg","translation":"king of trolls"},{"name":"诺克萨斯统领","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/50000.jpg","translation":"Lord of Noxus"},{"name":"皮城女警","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/51000.jpg","translation":"Pittsburgh Policewoman"},{"name":"蒸汽机器人","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/53000.jpg","translation":"steam robot"},{"name":"熔岩巨兽","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/54000.jpg","translation":"Lava Behemoth"},{"name":"不祥之刃","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/55000.jpg","translation":"Mischief blade"},{"name":"永恒梦魇","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/56000.jpg","translation":"Eternal Nightmare"},{"name":"扭曲树精","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/57000.jpg","translation":"Twisted Dryad"},{"name":"荒漠屠夫","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/58000.jpg","translation":"Desert Butcher"},{"name":"德玛西亚皇子","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/59000.jpg","translation":"Prince of Demacia"},{"name":"蜘蛛女皇","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/60000.jpg","translation":"spider queen"},{"name":"发条魔灵","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/61000.jpg","translation":"Clockwork Demon"},{"name":"齐天大圣","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/62000.jpg","translation":"Monkey King"},{"name":"复仇焰魂","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/63000.jpg","translation":"Vengeful Flame Soul"},{"name":"盲僧","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/64000.jpg","translation":"blind monk"},{"name":"暗夜猎手","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/67000.jpg","translation":"night Hunter"},{"name":"机械公敌","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/68000.jpg","translation":"Mechanical Enemy"},{"name":"魔蛇之拥","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/69000.jpg","translation":"Serpent&#39;s Embrace"},{"name":"水晶先锋","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/72000.jpg","translation":"Crystal Pioneer"},{"name":"大发明家","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/74000.jpg","translation":"great inventor"},{"name":"沙漠死神","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/75000.jpg","translation":"desert grim reaper"},{"name":"狂野女猎手","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/76000.jpg","translation":"wild huntress"},{"name":"兽灵行者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/77000.jpg","translation":"Beast Walker"},{"name":"圣锤之毅","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/78000.jpg","translation":"Fortitude of the Hammer"},{"name":"酒桶","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/79000.jpg","translation":"wine barrel"},{"name":"不屈之枪","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/80000.jpg","translation":"Unyielding Gun"},{"name":"探险家","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/81000.jpg","translation":"Explorer"},{"name":"铁铠冥魂","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/82000.jpg","translation":"Iron Armor Wraith"},{"name":"牧魂人","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/83000.jpg","translation":"shepherd"},{"name":"离群之刺","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/84000.jpg","translation":"Outlier Thorn"},{"name":"狂暴之心","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/85000.jpg","translation":"Rageheart"},{"name":"德玛西亚之力","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/86000.jpg","translation":"Demacian force"},{"name":"曙光女神","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/89000.jpg","translation":"goddess of dawn"},{"name":"虚空先知","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/90000.jpg","translation":"Void Prophet"},{"name":"刀锋之影","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/91000.jpg","translation":"Shadow of the Blade"},{"name":"放逐之刃","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/92000.jpg","translation":"Banished Blade"},{"name":"深渊巨口","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/96000.jpg","translation":"Abyssal Mouth"},{"name":"暮光之眼","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/98000.jpg","translation":"Twilight Eye"},{"name":"光辉女郎","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/99000.jpg","translation":"shine girl"},{"name":"远古巫灵","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/101000.jpg","translation":"Ancient Witch"},{"name":"龙血武姬","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/102000.jpg","translation":"Dragon Blood Wuji"},{"name":"九尾妖狐","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/103000.jpg","translation":"Nine-tailed fox"},{"name":"法外狂徒","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/104000.jpg","translation":"Outlaws"},{"name":"潮汐海灵","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/105000.jpg","translation":"Tidal Sea Spirit"},{"name":"不灭狂雷","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/106000.jpg","translation":"Inextinguishable Thunder"},{"name":"傲之追猎者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/107000.jpg","translation":"Proud Stalker"},{"name":"惩戒之箭","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/110000.jpg","translation":"Arrow of Retribution"},{"name":"深海泰坦","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/111000.jpg","translation":"Deep Sea Titan"},{"name":"机械先驱","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/112000.jpg","translation":"mechanical pioneer"},{"name":"北地之怒","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/113000.jpg","translation":"Fury of the North"},{"name":"无双剑姬","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/114000.jpg","translation":"Wushuang Jianji"},{"name":"爆破鬼才","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/115000.jpg","translation":"blasting genius"},{"name":"仙灵女巫","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/117000.jpg","translation":"fairy witch"},{"name":"荣耀行刑官","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/119000.jpg","translation":"Glory Executioner"},{"name":"战争之影","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/120000.jpg","translation":"shadow of war"},{"name":"虚空掠夺者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/121000.jpg","translation":"Void Reaver"},{"name":"诺克萨斯之手","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/122000.jpg","translation":"Hand of Noxus"},{"name":"未来守护者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/126000.jpg","translation":"future guardian"},{"name":"冰霜女巫","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/127000.jpg","translation":"Frost Witch"},{"name":"皎月女神","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/131000.jpg","translation":"moon goddess"},{"name":"德玛西亚之翼","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/133000.jpg","translation":"Demacian Wings"},{"name":"暗黑元首","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/134000.jpg","translation":"Dark Lord"},{"name":"铸星龙王","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/136000.jpg","translation":"Star Dragon King"},{"name":"影流之镰","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/141000.jpg","translation":"Shadowstream Scythe"},{"name":"暮光星灵","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/142000.jpg","translation":"Twilight Star"},{"name":"荆棘之兴","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/143000.jpg","translation":"Rise of Thorns"},{"name":"虚空之女","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/145000.jpg","translation":"Daughter of the Void"},{"name":"星籁歌姬","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/147000.jpg","translation":"star song singer"},{"name":"迷失之牙","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/150000.jpg","translation":"lost tooth"},{"name":"生化魔人","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/154000.jpg","translation":"Biochemical Demon"},{"name":"疾风剑豪","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/157000.jpg","translation":"Wind Swordsman"},{"name":"虚空之眼","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/161000.jpg","translation":"eye of the void"},{"name":"岩雀","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/163000.jpg","translation":"rock finch"},{"name":"青钢影","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/164000.jpg","translation":"Blue Steel Shadow"},{"name":"影哨","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/166000.jpg","translation":"Shadow whistle"},{"name":"弗雷尔卓德之心","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/201000.jpg","translation":"Heart of the Freljord"},{"name":"戏命师","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/202000.jpg","translation":"dramatist"},{"name":"永猎双子","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/203000.jpg","translation":"Eternal hunting twins"},{"name":"暴走萝莉","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/222000.jpg","translation":"runaway loli"},{"name":"河流之王","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/223000.jpg","translation":"king of the river"},{"name":"破败之王","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/234000.jpg","translation":"Ruined King"},{"name":"涤魂圣枪","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/235000.jpg","translation":"Soul Purifier"},{"name":"圣枪游侠","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/236000.jpg","translation":"Holy Gun Ranger"},{"name":"影流之主","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/238000.jpg","translation":"Lord of Shadow Streams"},{"name":"暴怒骑士","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/240000.jpg","translation":"Rage Knight"},{"name":"时间刺客","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/245000.jpg","translation":"time assassin"},{"name":"元素女皇","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/246000.jpg","translation":"Queen of the Elements"},{"name":"皮城执法官","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/254000.jpg","translation":"Pioneer Sheriff"},{"name":"暗裔剑魔","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/266000.jpg","translation":"Darkborn Sword Demon"},{"name":"唤潮鲛姬","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/267000.jpg","translation":"Tide Caller"},{"name":"沙漠皇帝","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/268000.jpg","translation":"desert emperor"},{"name":"魔法猫咪","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/350000.jpg","translation":"magic cat"},{"name":"沙漠玫瑰","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/360000.jpg","translation":"Desert Rose"},{"name":"魂锁典狱长","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/412000.jpg","translation":"Soullock Warden"},{"name":"海兽祭司","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/420000.jpg","translation":"sea beast priest"},{"name":"虚空遁地兽","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/421000.jpg","translation":"Void Escaper"},{"name":"翠神","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/427000.jpg","translation":"Green God"},{"name":"复仇之矛","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/429000.jpg","translation":"Spear of Vengeance"},{"name":"星界游神","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/432000.jpg","translation":"Astral wandering god"},{"name":"幻翎","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/497000.jpg","translation":"Phantom"},{"name":"逆羽","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/498000.jpg","translation":"Inverse feather"},{"name":"山隐之焰","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/516000.jpg","translation":"Yama Hidden Flame"},{"name":"解脱者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/517000.jpg","translation":"liberator"},{"name":"万花通灵","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/518000.jpg","translation":"kaleidoscope"},{"name":"残月之肃","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/523000.jpg","translation":"waning moon"},{"name":"镕铁少女","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/526000.jpg","translation":"Iron girl"},{"name":"血港鬼影","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/555000.jpg","translation":"Blood Harbor Ghost"},{"name":"愁云使者","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/711000.jpg","translation":"gloomy messenger"},{"name":"封魔剑魂","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/777000.jpg","translation":"Demon Sword Soul"},{"name":"腕豪","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/875000.jpg","translation":"wrist"},{"name":"含羞蓓蕾","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/876000.jpg","translation":"shy bud"},{"name":"灵罗娃娃","image":"https://game.gtimg.cn/images/lol/act/img/skinloading/887000.jpg","translation":"Lingluo doll"}]
+[
+    {
+        "name": "黑暗之女",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/1000.jpg",
+        "translation": "Dark Lady"
+    },
+    {
+        "name": "狂战士",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/2000.jpg",
+        "translation": "Berserker"
+    },
+    {
+        "name": "正义巨像",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/3000.jpg",
+        "translation": "Colossus of Justice"
+    },
+    {
+        "name": "卡牌大师",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/4000.jpg",
+        "translation": "Card Master"
+    },
+    {
+        "name": "德邦总管",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/5000.jpg",
+        "translation": "Debon Manager"
+    },
+    {
+        "name": "无畏战车",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/6000.jpg",
+        "translation": "Dreadnought"
+    },
+    {
+        "name": "诡术妖姬",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/7000.jpg",
+        "translation": "Trickster"
+    },
+    {
+        "name": "猩红收割者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/8000.jpg",
+        "translation": "Crimson Reaper"
+    },
+    {
+        "name": "远古恐惧",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/9000.jpg",
+        "translation": "ancient fear"
+    },
+    {
+        "name": "正义天使",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/10000.jpg",
+        "translation": "Angel of Justice"
+    },
+    {
+        "name": "无极剑圣",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/11000.jpg",
+        "translation": "Promise Juggernaut"
+    },
+    {
+        "name": "牛头酋长",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/12000.jpg",
+        "translation": "Tauren Chief"
+    },
+    {
+        "name": "符文法师",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/13000.jpg",
+        "translation": "Rune Mage"
+    },
+    {
+        "name": "亡灵战神",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/14000.jpg",
+        "translation": "Undead Ares"
+    },
+    {
+        "name": "战争女神",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/15000.jpg",
+        "translation": "goddess of war"
+    },
+    {
+        "name": "众星之子",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/16000.jpg",
+        "translation": "children of the stars"
+    },
+    {
+        "name": "迅捷斥候",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/17000.jpg",
+        "translation": "Swift Scout"
+    },
+    {
+        "name": "麦林炮手",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/18000.jpg",
+        "translation": "Merlin Gunner"
+    },
+    {
+        "name": "祖安怒兽",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/19000.jpg",
+        "translation": "Zaun Rage"
+    },
+    {
+        "name": "雪原双子",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/20000.jpg",
+        "translation": "snowfield twins"
+    },
+    {
+        "name": "赏金猎人",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/21000.jpg",
+        "translation": "Bounty Hunter"
+    },
+    {
+        "name": "寒冰射手",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/22000.jpg",
+        "translation": "Ashe"
+    },
+    {
+        "name": "蛮族之王",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/23000.jpg",
+        "translation": "The barbarian king"
+    },
+    {
+        "name": "武器大师",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/24000.jpg",
+        "translation": "Weapon Master"
+    },
+    {
+        "name": "堕落天使",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/25000.jpg",
+        "translation": "Fallen angels"
+    },
+    {
+        "name": "时光守护者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/26000.jpg",
+        "translation": "time guardian"
+    },
+    {
+        "name": "炼金术士",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/27000.jpg",
+        "translation": "Alchemist"
+    },
+    {
+        "name": "痛苦之拥",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/28000.jpg",
+        "translation": "Embrace of Pain"
+    },
+    {
+        "name": "瘟疫之源",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/29000.jpg",
+        "translation": "source of plague"
+    },
+    {
+        "name": "死亡颂唱者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/30000.jpg",
+        "translation": "death chanter"
+    },
+    {
+        "name": "虚空恐惧",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/31000.jpg",
+        "translation": "Void Fear"
+    },
+    {
+        "name": "殇之木乃伊",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/32000.jpg",
+        "translation": "The Mummy of Mourning"
+    },
+    {
+        "name": "披甲龙龟",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/33000.jpg",
+        "translation": "Armored Dragon Turtle"
+    },
+    {
+        "name": "冰晶凤凰",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/34000.jpg",
+        "translation": "Ice Crystal Phoenix"
+    },
+    {
+        "name": "恶魔小丑",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/35000.jpg",
+        "translation": "Demon clown"
+    },
+    {
+        "name": "祖安狂人",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/36000.jpg",
+        "translation": "Zaun Madman"
+    },
+    {
+        "name": "琴瑟仙女",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/37000.jpg",
+        "translation": "qinse fairy"
+    },
+    {
+        "name": "虚空行者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/38000.jpg",
+        "translation": "Voidwalker"
+    },
+    {
+        "name": "刀锋舞者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/39000.jpg",
+        "translation": "Blade Dancer"
+    },
+    {
+        "name": "风暴之怒",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/40000.jpg",
+        "translation": "Fury of the Storm"
+    },
+    {
+        "name": "海洋之灾",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/41000.jpg",
+        "translation": "Disaster of the Seas"
+    },
+    {
+        "name": "英勇投弹手",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/42000.jpg",
+        "translation": "Valiant Bombardier"
+    },
+    {
+        "name": "天启者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/43000.jpg",
+        "translation": "Apocalypse"
+    },
+    {
+        "name": "瓦洛兰之盾",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/44000.jpg",
+        "translation": "Shield of Valoran"
+    },
+    {
+        "name": "邪恶小法师",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/45000.jpg",
+        "translation": "Evil Little Mage"
+    },
+    {
+        "name": "巨魔之王",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/48000.jpg",
+        "translation": "king of trolls"
+    },
+    {
+        "name": "诺克萨斯统领",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/50000.jpg",
+        "translation": "Lord of Noxus"
+    },
+    {
+        "name": "皮城女警",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/51000.jpg",
+        "translation": "Pittsburgh Policewoman"
+    },
+    {
+        "name": "蒸汽机器人",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/53000.jpg",
+        "translation": "steam robot"
+    },
+    {
+        "name": "熔岩巨兽",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/54000.jpg",
+        "translation": "Lava Behemoth"
+    },
+    {
+        "name": "不祥之刃",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/55000.jpg",
+        "translation": "Mischief blade"
+    },
+    {
+        "name": "永恒梦魇",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/56000.jpg",
+        "translation": "Eternal Nightmare"
+    },
+    {
+        "name": "扭曲树精",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/57000.jpg",
+        "translation": "Twisted Dryad"
+    },
+    {
+        "name": "荒漠屠夫",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/58000.jpg",
+        "translation": "Desert Butcher"
+    },
+    {
+        "name": "德玛西亚皇子",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/59000.jpg",
+        "translation": "Prince of Demacia"
+    },
+    {
+        "name": "蜘蛛女皇",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/60000.jpg",
+        "translation": "spider queen"
+    },
+    {
+        "name": "发条魔灵",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/61000.jpg",
+        "translation": "Clockwork Demon"
+    },
+    {
+        "name": "齐天大圣",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/62000.jpg",
+        "translation": "Monkey King"
+    },
+    {
+        "name": "复仇焰魂",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/63000.jpg",
+        "translation": "Vengeful Flame Soul"
+    },
+    {
+        "name": "盲僧",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/64000.jpg",
+        "translation": "blind monk"
+    },
+    {
+        "name": "暗夜猎手",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/67000.jpg",
+        "translation": "night Hunter"
+    },
+    {
+        "name": "机械公敌",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/68000.jpg",
+        "translation": "Mechanical Enemy"
+    },
+    {
+        "name": "魔蛇之拥",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/69000.jpg",
+        "translation": "Serpent&#39;s Embrace"
+    },
+    {
+        "name": "水晶先锋",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/72000.jpg",
+        "translation": "Crystal Pioneer"
+    },
+    {
+        "name": "大发明家",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/74000.jpg",
+        "translation": "great inventor"
+    },
+    {
+        "name": "沙漠死神",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/75000.jpg",
+        "translation": "desert grim reaper"
+    },
+    {
+        "name": "狂野女猎手",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/76000.jpg",
+        "translation": "wild huntress"
+    },
+    {
+        "name": "兽灵行者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/77000.jpg",
+        "translation": "Beast Walker"
+    },
+    {
+        "name": "圣锤之毅",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/78000.jpg",
+        "translation": "Fortitude of the Hammer"
+    },
+    {
+        "name": "酒桶",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/79000.jpg",
+        "translation": "wine barrel"
+    },
+    {
+        "name": "不屈之枪",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/80000.jpg",
+        "translation": "Unyielding Gun"
+    },
+    {
+        "name": "探险家",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/81000.jpg",
+        "translation": "Explorer"
+    },
+    {
+        "name": "铁铠冥魂",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/82000.jpg",
+        "translation": "Iron Armor Wraith"
+    },
+    {
+        "name": "牧魂人",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/83000.jpg",
+        "translation": "shepherd"
+    },
+    {
+        "name": "离群之刺",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/84000.jpg",
+        "translation": "Outlier Thorn"
+    },
+    {
+        "name": "狂暴之心",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/85000.jpg",
+        "translation": "Rageheart"
+    },
+    {
+        "name": "德玛西亚之力",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/86000.jpg",
+        "translation": "Demacian force"
+    },
+    {
+        "name": "曙光女神",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/89000.jpg",
+        "translation": "goddess of dawn"
+    },
+    {
+        "name": "虚空先知",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/90000.jpg",
+        "translation": "Void Prophet"
+    },
+    {
+        "name": "刀锋之影",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/91000.jpg",
+        "translation": "Shadow of the Blade"
+    },
+    {
+        "name": "放逐之刃",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/92000.jpg",
+        "translation": "Banished Blade"
+    },
+    {
+        "name": "深渊巨口",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/96000.jpg",
+        "translation": "Abyssal Mouth"
+    },
+    {
+        "name": "暮光之眼",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/98000.jpg",
+        "translation": "Twilight Eye"
+    },
+    {
+        "name": "光辉女郎",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/99000.jpg",
+        "translation": "shine girl"
+    },
+    {
+        "name": "远古巫灵",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/101000.jpg",
+        "translation": "Ancient Witch"
+    },
+    {
+        "name": "龙血武姬",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/102000.jpg",
+        "translation": "Dragon Blood Wuji"
+    },
+    {
+        "name": "九尾妖狐",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/103000.jpg",
+        "translation": "Nine-tailed fox"
+    },
+    {
+        "name": "法外狂徒",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/104000.jpg",
+        "translation": "Outlaws"
+    },
+    {
+        "name": "潮汐海灵",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/105000.jpg",
+        "translation": "Tidal Sea Spirit"
+    },
+    {
+        "name": "不灭狂雷",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/106000.jpg",
+        "translation": "Inextinguishable Thunder"
+    },
+    {
+        "name": "傲之追猎者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/107000.jpg",
+        "translation": "Proud Stalker"
+    },
+    {
+        "name": "惩戒之箭",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/110000.jpg",
+        "translation": "Arrow of Retribution"
+    },
+    {
+        "name": "深海泰坦",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/111000.jpg",
+        "translation": "Deep Sea Titan"
+    },
+    {
+        "name": "机械先驱",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/112000.jpg",
+        "translation": "mechanical pioneer"
+    },
+    {
+        "name": "北地之怒",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/113000.jpg",
+        "translation": "Fury of the North"
+    },
+    {
+        "name": "无双剑姬",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/114000.jpg",
+        "translation": "Wushuang Jianji"
+    },
+    {
+        "name": "爆破鬼才",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/115000.jpg",
+        "translation": "blasting genius"
+    },
+    {
+        "name": "仙灵女巫",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/117000.jpg",
+        "translation": "fairy witch"
+    },
+    {
+        "name": "荣耀行刑官",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/119000.jpg",
+        "translation": "Glory Executioner"
+    },
+    {
+        "name": "战争之影",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/120000.jpg",
+        "translation": "shadow of war"
+    },
+    {
+        "name": "虚空掠夺者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/121000.jpg",
+        "translation": "Void Reaver"
+    },
+    {
+        "name": "诺克萨斯之手",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/122000.jpg",
+        "translation": "Hand of Noxus"
+    },
+    {
+        "name": "未来守护者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/126000.jpg",
+        "translation": "future guardian"
+    },
+    {
+        "name": "冰霜女巫",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/127000.jpg",
+        "translation": "Frost Witch"
+    },
+    {
+        "name": "皎月女神",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/131000.jpg",
+        "translation": "moon goddess"
+    },
+    {
+        "name": "德玛西亚之翼",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/133000.jpg",
+        "translation": "Demacian Wings"
+    },
+    {
+        "name": "暗黑元首",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/134000.jpg",
+        "translation": "Dark Lord"
+    },
+    {
+        "name": "铸星龙王",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/136000.jpg",
+        "translation": "Star Dragon King"
+    },
+    {
+        "name": "影流之镰",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/141000.jpg",
+        "translation": "Shadowstream Scythe"
+    },
+    {
+        "name": "暮光星灵",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/142000.jpg",
+        "translation": "Twilight Star"
+    },
+    {
+        "name": "荆棘之兴",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/143000.jpg",
+        "translation": "Rise of Thorns"
+    },
+    {
+        "name": "虚空之女",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/145000.jpg",
+        "translation": "Daughter of the Void"
+    },
+    {
+        "name": "星籁歌姬",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/147000.jpg",
+        "translation": "star song singer"
+    },
+    {
+        "name": "迷失之牙",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/150000.jpg",
+        "translation": "lost tooth"
+    },
+    {
+        "name": "生化魔人",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/154000.jpg",
+        "translation": "Biochemical Demon"
+    },
+    {
+        "name": "疾风剑豪",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/157000.jpg",
+        "translation": "Wind Swordsman"
+    },
+    {
+        "name": "虚空之眼",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/161000.jpg",
+        "translation": "eye of the void"
+    },
+    {
+        "name": "岩雀",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/163000.jpg",
+        "translation": "rock finch"
+    },
+    {
+        "name": "青钢影",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/164000.jpg",
+        "translation": "Blue Steel Shadow"
+    },
+    {
+        "name": "影哨",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/166000.jpg",
+        "translation": "Shadow whistle"
+    },
+    {
+        "name": "弗雷尔卓德之心",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/201000.jpg",
+        "translation": "Heart of the Freljord"
+    },
+    {
+        "name": "戏命师",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/202000.jpg",
+        "translation": "dramatist"
+    },
+    {
+        "name": "永猎双子",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/203000.jpg",
+        "translation": "Eternal hunting twins"
+    },
+    {
+        "name": "暴走萝莉",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/222000.jpg",
+        "translation": "runaway loli"
+    },
+    {
+        "name": "河流之王",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/223000.jpg",
+        "translation": "king of the river"
+    },
+    {
+        "name": "破败之王",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/234000.jpg",
+        "translation": "Ruined King"
+    },
+    {
+        "name": "涤魂圣枪",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/235000.jpg",
+        "translation": "Soul Purifier"
+    },
+    {
+        "name": "圣枪游侠",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/236000.jpg",
+        "translation": "Holy Gun Ranger"
+    },
+    {
+        "name": "影流之主",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/238000.jpg",
+        "translation": "Lord of Shadow Streams"
+    },
+    {
+        "name": "暴怒骑士",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/240000.jpg",
+        "translation": "Rage Knight"
+    },
+    {
+        "name": "时间刺客",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/245000.jpg",
+        "translation": "time assassin"
+    },
+    {
+        "name": "元素女皇",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/246000.jpg",
+        "translation": "Queen of the Elements"
+    },
+    {
+        "name": "皮城执法官",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/254000.jpg",
+        "translation": "Pioneer Sheriff"
+    },
+    {
+        "name": "暗裔剑魔",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/266000.jpg",
+        "translation": "Darkborn Sword Demon"
+    },
+    {
+        "name": "唤潮鲛姬",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/267000.jpg",
+        "translation": "Tide Caller"
+    },
+    {
+        "name": "沙漠皇帝",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/268000.jpg",
+        "translation": "desert emperor"
+    },
+    {
+        "name": "魔法猫咪",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/350000.jpg",
+        "translation": "magic cat"
+    },
+    {
+        "name": "沙漠玫瑰",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/360000.jpg",
+        "translation": "Desert Rose"
+    },
+    {
+        "name": "魂锁典狱长",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/412000.jpg",
+        "translation": "Soullock Warden"
+    },
+    {
+        "name": "海兽祭司",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/420000.jpg",
+        "translation": "sea beast priest"
+    },
+    {
+        "name": "虚空遁地兽",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/421000.jpg",
+        "translation": "Void Escaper"
+    },
+    {
+        "name": "翠神",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/427000.jpg",
+        "translation": "Green God"
+    },
+    {
+        "name": "复仇之矛",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/429000.jpg",
+        "translation": "Spear of Vengeance"
+    },
+    {
+        "name": "星界游神",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/432000.jpg",
+        "translation": "Astral wandering god"
+    },
+    {
+        "name": "幻翎",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/497000.jpg",
+        "translation": "Phantom"
+    },
+    {
+        "name": "逆羽",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/498000.jpg",
+        "translation": "Inverse feather"
+    },
+    {
+        "name": "山隐之焰",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/516000.jpg",
+        "translation": "Yama Hidden Flame"
+    },
+    {
+        "name": "解脱者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/517000.jpg",
+        "translation": "liberator"
+    },
+    {
+        "name": "万花通灵",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/518000.jpg",
+        "translation": "kaleidoscope"
+    },
+    {
+        "name": "残月之肃",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/523000.jpg",
+        "translation": "waning moon"
+    },
+    {
+        "name": "镕铁少女",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/526000.jpg",
+        "translation": "Iron girl"
+    },
+    {
+        "name": "血港鬼影",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/555000.jpg",
+        "translation": "Blood Harbor Ghost"
+    },
+    {
+        "name": "愁云使者",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/711000.jpg",
+        "translation": "gloomy messenger"
+    },
+    {
+        "name": "封魔剑魂",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/777000.jpg",
+        "translation": "Demon Sword Soul"
+    },
+    {
+        "name": "腕豪",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/875000.jpg",
+        "translation": "wrist"
+    },
+    {
+        "name": "含羞蓓蕾",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/876000.jpg",
+        "translation": "shy bud"
+    },
+    {
+        "name": "灵罗娃娃",
+        "image": "https://game.gtimg.cn/images/lol/act/img/skinloading/887000.jpg",
+        "translation": "Lingluo doll"
+    }
+]
